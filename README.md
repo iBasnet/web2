@@ -3,4 +3,4 @@ Welcome to my small repo containing some of the websites I created a few months 
 # Enjoy🔥
 Here, I'll include the source code of my old sites that I created using HTML & CSS in VScode.
 # Follow Me :)
-- [ ] ## [Twitter](https:/twitter.com/_BASNET)
+## [Twitter](https:/twitter.com/_BASNET)
