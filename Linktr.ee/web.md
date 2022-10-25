@@ -1,7 +1,7 @@
 # Linktr.ee https://qaix.netlify.com
 
 ## Source:
-![](https://linktr.ee/basnet)
+![](https://i.imgur.com/UWB3vzK.png)
 
-## Output:
-![](https://qaix.netlify.com)
+## Result:
+![](https://i.imgur.com/T8w7tWi.png)
