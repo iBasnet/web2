@@ -1,4 +1,4 @@
-# Hello👋, I'm Pratik.Basnet 🦄
+# Hello👋, I'm Pratik Basnet 🦄
 
 ![](https://i.imgur.com/oBjtim5.png)
 
