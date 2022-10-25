@@ -1,1 +1,1 @@
-# basnet.netlify.com
+# https://basnet.netlify.com
