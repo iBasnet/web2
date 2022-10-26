@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #1A1D1E;
+}
+
+.hero {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    height: 300px;
+    width: 700px;
+    background: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 10px 10px 100px 4px white;
+    border-radius: 100px;
+    animation-name: cozey;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes cozey {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+
+}
+
+/* @keyframes cozey {
+    25% {
+        transform: rotate(0deg);
+    }
+
+    50% {
+        transform: rotate(90deg);
+    }
+
+    75% {
+        transform: rotate(180deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+
+
+} */
+
+.hero .box h1 {
+    border-radius: 50px;
+    font-size: 70px;
+    padding: 20px 60px;
+    color: white;
+    background-color: yellowgreen;
+    transition-duration: 0.5s;
+}
+
+.hero .box h1:hover {
+    font-size: 80px;
+    padding: 40px 60px;
+    border-radius: 80px;
+}
