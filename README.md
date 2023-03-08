@@ -11,5 +11,5 @@ Here, I'll include the source code of my old & upcoming sites that I created usi
 # Follow Me ;)
 
 -   https://linktr.ee/basnet
--   https://twitter.com/_basnet
--   https://instagram.com/basnet.eth
+-   https://twitter.com/_pratikbasnet
+-   https://instagram.com/basnet.x
